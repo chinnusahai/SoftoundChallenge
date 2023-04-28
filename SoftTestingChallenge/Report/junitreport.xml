@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="14" time="108.033136">
+    <testcase classname="To Validate the Softound Challenge" name="To Validate the Registration Form" time="9.230152">
+        <system-out><![CDATA[Given : launch the browser..................................................passed
+When launch the Softound Url................................................passed
+Then Enter the "Jayapriya"FirstName.........................................passed
+And Enter the "s"LastName...................................................passed
+And Enter the "sr.jpriya@gmail.com"EmailAddress.............................passed
+And select Your "29.05.2020"BirthDate.......................................passed
+And click SubmitButton......................................................passed
+And Print The Submission Message............................................passed
+Then close the Browser......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate the Softound Challenge" name="To Validate the Registration Form 2" time="7.804831">
+        <system-out><![CDATA[Given : launch the browser..................................................passed
+When launch the Softound Url................................................passed
+Then Enter the "s"FirstName.................................................passed
+And Enter the "Jayapriya"LastName...........................................passed
+And Enter the "sr.jpriya@gmail.com"EmailAddress.............................passed
+And select Your "29.05.199"BirthDate........................................passed
+And click SubmitButton......................................................passed
+And Print The Submission Message............................................passed
+Then close the Browser......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate the Softound Challenge" name="To Validate the Registration Form 3" time="6.955943">
+        <system-out><![CDATA[Given : launch the browser..................................................passed
+When launch the Softound Url................................................passed
+Then Enter the "Jayapriya"FirstName.........................................passed
+And Enter the "s"LastName...................................................passed
+And Enter the "sr.jpriya"EmailAddress.......................................passed
+And select Your "29.05.2003"BirthDate.......................................passed
+And click SubmitButton......................................................passed
+And Print The Submission Message............................................passed
+Then close the Browser......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate the Softound Challenge" name="To Validate the Registration Form 4" time="7.173702">
+        <system-out><![CDATA[Given : launch the browser..................................................passed
+When launch the Softound Url................................................passed
+Then Enter the "Jayapriya"FirstName.........................................passed
+And Enter the "s"LastName...................................................passed
+And Enter the "sr.jpriya@gmail.com"EmailAddress.............................passed
+And select Your "29.05.2025"BirthDate.......................................passed
+And click SubmitButton......................................................passed
+And Print The Submission Message............................................passed
+Then close the Browser......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate the Softound Challenge" name="To Validate the Registration Form 5" time="7.346068">
+        <system-out><![CDATA[Given : launch the browser..................................................passed
+When launch the Softound Url................................................passed
+Then Enter the "Jayapriya"FirstName.........................................passed
+And Enter the "s"LastName...................................................passed
+And Enter the "12345"EmailAddress...........................................passed
+And select Your "29.05.2013"BirthDate.......................................passed
+And click SubmitButton......................................................passed
+And Print The Submission Message............................................passed
+Then close the Browser......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate the Softound Challenge" name="To Validate the Registration Form 6" time="8.056692">
+        <system-out><![CDATA[Given : launch the browser..................................................passed
+When launch the Softound Url................................................passed
+Then Enter the "Jayapriya"FirstName.........................................passed
+And Enter the "123125"LastName..............................................passed
+And Enter the "sr.jpriya@gmail.com"EmailAddress.............................passed
+And select Your "50.05.1000"BirthDate.......................................passed
+And click SubmitButton......................................................passed
+And Print The Submission Message............................................passed
+Then close the Browser......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate the Softound Challenge" name="To Validate the Registration Form 7" time="7.373937">
+        <system-out><![CDATA[Given : launch the browser..................................................passed
+When launch the Softound Url................................................passed
+Then Enter the "123987"FirstName............................................passed
+And Enter the "s"LastName...................................................passed
+And Enter the "sr.jpriya@gmail.com"EmailAddress.............................passed
+And select Your "29.15.1993"BirthDate.......................................passed
+And click SubmitButton......................................................passed
+And Print The Submission Message............................................passed
+Then close the Browser......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate the Softound Challenge" name="To Validate the Registration Form 8" time="7.141366">
+        <system-out><![CDATA[Given : launch the browser..................................................passed
+When launch the Softound Url................................................passed
+Then Enter the ""FirstName..................................................passed
+And Enter the "s"LastName...................................................passed
+And Enter the "12345"EmailAddress...........................................passed
+And select Your "29.05.2013"BirthDate.......................................passed
+And click SubmitButton......................................................passed
+And Print The Submission Message............................................passed
+Then close the Browser......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate the Softound Challenge" name="To Validate the Registration Form 9" time="8.18579">
+        <system-out><![CDATA[Given : launch the browser..................................................passed
+When launch the Softound Url................................................passed
+Then Enter the "Jayapriya"FirstName.........................................passed
+And Enter the ""LastName....................................................passed
+And Enter the "sr.jpriya@gmail.com"EmailAddress.............................passed
+And select Your "50.05.1000"BirthDate.......................................passed
+And click SubmitButton......................................................passed
+And Print The Submission Message............................................passed
+Then close the Browser......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate the Softound Challenge" name="To Validate the Registration Form 10" time="7.485897">
+        <system-out><![CDATA[Given : launch the browser..................................................passed
+When launch the Softound Url................................................passed
+Then Enter the "123987"FirstName............................................passed
+And Enter the "s"LastName...................................................passed
+And Enter the ""EmailAddress................................................passed
+And select Your "29.15.1993"BirthDate.......................................passed
+And click SubmitButton......................................................passed
+And Print The Submission Message............................................passed
+Then close the Browser......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate the Softound Challenge" name="To Validate the Registration Form 11" time="8.805713">
+        <system-out><![CDATA[Given : launch the browser..................................................passed
+When launch the Softound Url................................................passed
+Then Enter the "Jayapriya"FirstName.........................................passed
+And Enter the "s"LastName...................................................passed
+And Enter the "sr.jpriya@gmail.com"EmailAddress.............................passed
+And select Your ""BirthDate.................................................passed
+And click SubmitButton......................................................passed
+And Print The Submission Message............................................passed
+Then close the Browser......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate the Softound Challenge" name="To Validate the Registration Form 12" time="7.083509">
+        <system-out><![CDATA[Given : launch the browser..................................................passed
+When launch the Softound Url................................................passed
+Then Enter the ""FirstName..................................................passed
+And Enter the "s"LastName...................................................passed
+And Enter the ""EmailAddress................................................passed
+And select Your "29.05.2013"BirthDate.......................................passed
+And click SubmitButton......................................................passed
+And Print The Submission Message............................................passed
+Then close the Browser......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate the Softound Challenge" name="To Validate the Registration Form 13" time="7.847596">
+        <system-out><![CDATA[Given : launch the browser..................................................passed
+When launch the Softound Url................................................passed
+Then Enter the "Jayapriya"FirstName.........................................passed
+And Enter the ""LastName....................................................passed
+And Enter the "sr.jpriya@gmail.com"EmailAddress.............................passed
+And select Your ""BirthDate.................................................passed
+And click SubmitButton......................................................passed
+And Print The Submission Message............................................passed
+Then close the Browser......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate the Softound Challenge" name="To Validate the Registration Form 14" time="7.54194">
+        <system-out><![CDATA[Given : launch the browser..................................................passed
+When launch the Softound Url................................................passed
+Then Enter the ""FirstName..................................................passed
+And Enter the "s"LastName...................................................passed
+And Enter the "sr.jpriya@gmail.com"EmailAddress.............................passed
+And select Your "29.15.1993"BirthDate.......................................passed
+And click SubmitButton......................................................passed
+And Print The Submission Message............................................passed
+Then close the Browser......................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
